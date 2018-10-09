@@ -1,0 +1,32 @@
+650
+10
+Night Express
+23 55
+8 15
+Red Arrow
+22 10
+7 45
+Star
+10 30
+19 25
+Comfort
+11 45
+20 40
+Budget
+5 50
+18 55
+Day Rocket
+11 55
+16 00
+Super Star
+12 20
+16 48
+Good Morning
+21 20
+8 45
+Best Choice
+20 00
+7 25
+Sunrise
+21 30
+5 40
